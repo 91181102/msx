@@ -1,0 +1,11 @@
+C:\Git\msx\MsxChar\bin\Debug\MsxChar.exe.config
+C:\Git\msx\MsxChar\bin\Debug\MsxChar.exe
+C:\Git\msx\MsxChar\bin\Debug\MsxChar.pdb
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.csproj.AssemblyReference.cache
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.Properties.Resources.resources
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.csproj.GenerateResource.cache
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.csproj.CoreCompileInputs.cache
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.exe
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.pdb
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.MsxCharEdit.resources
+C:\Git\msx\MsxChar\obj\Debug\MsxChar.Sprites.View.Form_Sprites.resources
