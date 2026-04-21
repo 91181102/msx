@@ -1,0 +1,10 @@
+C:\Git\msx\TileBuilder\bin\Debug\TileBuilder.exe.config
+C:\Git\msx\TileBuilder\bin\Debug\TileBuilder.exe
+C:\Git\msx\TileBuilder\bin\Debug\TileBuilder.pdb
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.csproj.AssemblyReference.cache
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.Form_Principal.resources
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.Properties.Resources.resources
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.csproj.GenerateResource.cache
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.csproj.CoreCompileInputs.cache
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.exe
+C:\Git\msx\TileBuilder\obj\Debug\TileBuilder.pdb
